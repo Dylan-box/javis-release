@@ -1,8 +1,8 @@
 {
-  "version": "1.9.27",
-  "tag": "v1.9.27",
+  "version": "1.9.29",
+  "tag": "v1.9.29",
   "apk": "https://github.com/Dylan-box/javis-release/releases/download/v1.9.27/javis-1.9.27.apk",
   "size": 18891024,
   "published": "2026-11-18T16:02:59Z",
-  "notes": "1.9.27：账单页可直接删除并撤销；语音删除不再误记账；待确认 72 小时过期；到期任务即时提醒；完成度看板两行。"
+  "notes": "临时验证用：确认 App 能从 version.json 读到新版本。"
 }
